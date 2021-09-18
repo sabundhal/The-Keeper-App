@@ -11,3 +11,5 @@ To run locally, first clone this project in your local machine and run the follo
 
 1. npm install
 2. npm start
+
+PS. Make sure you have node installed.
